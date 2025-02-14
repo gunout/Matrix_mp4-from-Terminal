@@ -19,5 +19,7 @@ Matrix Terminal Recorder to .MP4
 
 
 ps : You can modified the script for your :
+
 line 19
+
 characters = list("GLEAPHE") <<< "You can change the script there" .
